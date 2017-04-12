@@ -34,18 +34,9 @@
   },
   "content": [
     {
-      "component": "nav",
-      "links": [
-        {
-          "href": "https://github.com/lucasglenn/success-kit",
-          "text": "GitHub"
-        }
-      ]
-    },
-    {
       "component": "header",
-      "heading": "success-kit",
-      "subhead": "onboarding success kit",
+      "heading": "Onboarding Success Kit",
+      "subhead": "",
       "children": [
         {
           "component": "ui/TweetButton",
@@ -57,7 +48,12 @@
           "user": "lucasglenn",
           "repo": "success-kit"
         }
-      ]
+      ],
+      "slug": "",
+      "links": [],
+      "backgroundImage": "",
+      "image": "https://www.freshgrade.com/wp-content/uploads/2016/09/temporary-FreshGrade-logo.png",
+      "text": "Created March 21, 2014 for Washington Heights School District"
     },
     {
       "component": "article",
@@ -70,12 +66,8 @@
       "component": "footer",
       "links": [
         {
-          "href": "https://github.com/lucasglenn/success-kit",
-          "text": "GitHub"
-        },
-        {
-          "href": "https://github.com/lucasglenn",
-          "text": "lucasglenn"
+          "href": "https://care.freshgrade.com",
+          "text": "Support"
         }
       ]
     }
